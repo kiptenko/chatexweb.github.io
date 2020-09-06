@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-assets
+  - another-jekyll-plugin
+  collections:
+  staff_members:
+    people: true
